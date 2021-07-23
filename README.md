@@ -15,6 +15,8 @@ In this exercise your task is to modify the .flex and .grid styles in the styles
     <div class="box">box3</div>
   </div>
 ```
+<br/>
+
 The web page should look like the image.
 
 ![](https://raw.githubusercontent.com/hoc-labs/images/main/basic-flex-2.png)
