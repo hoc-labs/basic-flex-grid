@@ -24,12 +24,19 @@ In this exercise your task is to modify the styles in the styles.css file so tha
     <div class="box">box2</div>
     <div class="box">box3</div>
   </div>
+
+  <div class="grid-areas">
+      <section class="header">header</section>
+      <section class="main-content">main</section>
+      <section class="nav">nav</section>
+      <section class="footer">footer</section>
+    </div>
 ```
 <br/>
 
 Your web page should look like the image.
 
-![](https://raw.githubusercontent.com/hoc-labs/images/main/basic-flex.png)
+![](https://raw.githubusercontent.com/hoc-labs/images/main/grid-flex-3.png)
 
 ### Resources
 * [Centering Elements](https://chnn-anne.gitbook.io/html-css/miscellaneous-topics/centering-elements)
