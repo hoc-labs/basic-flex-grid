@@ -3,8 +3,9 @@
 In this exercise your task is to modify the styles in the styles.css file so that:
 
 * **flex**:  uses display:flex so that the set of boxes display horizontally and are evenly distributed.
-* **flex-grid**: uses display:flex to center the three boxes both horizontally and vertically in the parent container.
+* **flex-center**: uses display:flex to center the three boxes both horizontally and vertically in the parent container.
 * **grid**: uses display:grid so that the set of boxes display horiztonally and are evenly distributed.
+* **grid-areas**: used display:grid so that the different sections are displayed in the correct position.
 
 ```html
  <div class="flex">
@@ -39,6 +40,6 @@ Your web page should look like the image.
 ![](https://raw.githubusercontent.com/hoc-labs/images/main/grid-flex-3.png)
 
 ### Resources
-* [Centering Elements](https://chnn-anne.gitbook.io/html-css/miscellaneous-topics/centering-elements)
-* [Flexbox](https://chnn-anne.gitbook.io/html-css/html-css-intro/layout/flexboxs)
-* [Grid](https://chnn-anne.gitbook.io/html-css/html-css-intro/layout/grid)
+* [Centering Elements](https://chnn-anne.gitbook.io/html-css-fall-2021/miscellaneous-topics/centering-elements)
+* [Flexbox](https://chnn-anne.gitbook.io/html-css-fall-2021/html-css-intro/layout/flexbox)
+* [Grid](https://chnn-anne.gitbook.io/html-css-fall-2021/html-css-intro/layout/grid)
